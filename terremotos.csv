@@ -1,0 +1,670 @@
+﻿magitud,continent,location,tsunami,magType,% Terremotos con Alerta,Cantidad de terremotos,Year,alert
+7,Africa,"Chipinge, Zimbabwe",0,mwb,0.1287001287001287,1,2006,green
+6.8,Africa,"Dellys, Algeria",0,mwc,0.1287001287001287,1,2003,green
+6.8,Africa,"Kalemie, Democratic Republic",0,mwc,0.1287001287001287,1,2005,green
+6.7,Africa,Mauritius - Reunion region,0,mww,0.1287001287001287,1,2021,green
+6.5,Africa,"Moijabana, Botswana",0,mww,0.1287001287001287,1,2017,green
+6.6,Africa,northern Mid-Atlantic Ridge,1,mww,0.1287001287001287,1,2013,green
+7,Asia,"Abepura, Indonesia",1,mww,0.1287001287001287,1,2013,green
+7,Asia,"Abepura, Indonesia",1,mww,0.1287001287001287,1,2015,green
+6.5,Asia,"Abhar, Iran",0,mwc,0.1287001287001287,1,2002,green
+6.6,Asia,Afghanistan-Tajikistan-Pakistan region,0,mwb,0.1287001287001287,1,2004,green
+14,Asia,"Aktash, Russia",0,mwb,0.2574002574002574,1,2003,green
+7.3,Asia,"alabja, Iraq",0,mww,0.1287001287001287,1,2017,red
+6.9,Asia,"Amahai, Indonesia",0,mww,0.1287001287001287,1,2015,green
+6.7,Asia,"Ambon, Indonesia",0,mwb,0.1287001287001287,1,2004,green
+6.7,Asia,"Ambon, Indonesia",0,mwb,0.1287001287001287,1,2006,green
+6.5,Asia,"Ambon, Indonesia",0,mwc,0.1287001287001287,1,2001,green
+7.9,Asia,"arai, Japan",0,mwc,0.1287001287001287,1,2011,green
+6.5,Asia,"Ashksham, Afghanistan",0,mwb,0.1287001287001287,1,2005,green
+6.6,Asia,"Ashksham, Afghanistan",0,mww,0.1287001287001287,1,2016,green
+6.9,Asia,"Atlasovo, Russia",0,mwb,0.1287001287001287,1,2003,green
+6.9,Asia,"Atlasovo, Russia",0,mwb,0.1287001287001287,1,2004,green
+6.6,Asia,"Bam, Iran",0,mwc,0.1287001287001287,1,2003,green
+6.7,Asia,"Bam, Iran",0,mwc,0.1287001287001287,1,2010,green
+6.5,Asia,"Bamboo Flat, India",0,mwc,0.1287001287001287,1,2002,green
+6.6,Asia,"Bamboo Flat, India",0,mwc,0.1287001287001287,1,2008,green
+7.5,Asia,"Bamboo Flat, India",0,mwc,0.1287001287001287,1,2009,green
+6.6,Asia,"Bamboo Flat, India",0,mwc,0.1287001287001287,1,2010,green
+7.1,Asia,Banda Sea,0,mwb,0.1287001287001287,1,2005,green
+7.1,Asia,Banda Sea,0,mww,0.1287001287001287,1,2012,green
+6.8,Asia,Banda Sea,0,mww,0.1287001287001287,1,2020,green
+7,Asia,"Banjar, Indonesia",0,mwc,0.1287001287001287,1,2009,green
+7,Asia,"Bantay, Philippines",1,mww,0.1287001287001287,1,2022,yellow
+7.6,Asia,"Bantogon, Philippines",0,mwc,0.1287001287001287,1,2010,green
+6.6,Asia,"Batang, Indonesia",0,mww,0.1287001287001287,1,2020,green
+7.7,Asia,"Bela, Pakistan",0,mww,0.1287001287001287,1,2013,red
+6.6,Asia,"Belaya Gora, Russia",1,mww,0.1287001287001287,1,2013,green
+6.9,Asia,"Bengkulu, Indonesia",0,mwb,0.1287001287001287,1,2001,green
+7.4,Asia,"Bengkulu, Indonesia",0,mwc,0.1287001287001287,1,2001,green
+6.8,Asia,"Bengkulu, Indonesia",0,mwc,0.1287001287001287,1,2007,green
+6.8,Asia,"Bengkulu, Indonesia",0,mwc,0.1287001287001287,1,2010,green
+8.4,Asia,"Bengkulu, Indonesia",0,mww,0.1287001287001287,1,2007,green
+13.7,Asia,"Bengkulu, Indonesia",0,mww,0.2574002574002574,1,2020,green
+6.9,Asia,"Bengkulu, Indonesia",0,mww,0.1287001287001287,1,2022,green
+7.7,Asia,"Bhachu, India",0,mwc,0.1287001287001287,1,2001,green
+7.8,Asia,"Bharatpur, Nepal",0,mww,0.1287001287001287,1,2015,red
+6.6,Asia,"Bharatpur, Nepal",0,mww,0.1287001287001287,1,2015,yellow
+13.6,Asia,"Biak, Indonesia",0,mwc,0.2574002574002574,1,2010,green
+6.6,Asia,"Bima, Indonesia",0,mwc,0.1287001287001287,1,2009,green
+7.1,Asia,"Bitung, Indonesia",1,mww,0.1287001287001287,1,2019,green
+13,Asia,"Blenheim, New Zealand",2,mww,0.2574002574002574,1,2013,yellow
+6.5,Asia,"Blenheim, New Zealand",1,mww,0.1287001287001287,1,2016,yellow
+14.3,Asia,"Bonin Islands, Japan region",1,mww,0.2574002574002574,1,2015,green
+6.9,Asia,"Burias, Philippines",1,mww,0.1287001287001287,1,2017,green
+6.5,Asia,"Can-Avid, Philippines",0,mwb,0.1287001287001287,1,2003,green
+6.8,Asia,"Chauk, Myanmar",0,mww,0.1287001287001287,1,2016,yellow
+6.6,Asia,"Chitose, Japan",1,mww,0.1287001287001287,1,2018,orange
+6.6,Asia,"Columbio, Philippines",1,mww,0.1287001287001287,1,2019,yellow
+7.2,Asia,"Dalbandin, Pakistan",0,mww,0.1287001287001287,1,2011,green
+6.7,Asia,"Doanyol, Turkey",0,mww,0.1287001287001287,1,2020,orange
+13,Asia,"Dompu, Indonesia",0,mwc,0.2574002574002574,1,2007,green
+7.3,Asia,Flores Sea,1,mww,0.1287001287001287,1,2021,green
+7,Asia,"funato, Japan",0,mwb,0.1287001287001287,1,2003,green
+7.3,Asia,"funato, Japan",0,mww,0.1287001287001287,1,2011,green
+7.3,Asia,"funato, Japan",0,mww,0.1287001287001287,1,2012,green
+6.8,Asia,"funato, Japan",1,mww,0.1287001287001287,1,2015,green
+7.4,Asia,"Gorontalo, Indonesia",0,mww,0.1287001287001287,1,2008,green
+9.1,Asia,"Great Tohoku Earthquake, Japan",0,mww,0.1287001287001287,1,2011,green
+6.5,Asia,"Hanamaki, Japan",0,mwc,0.1287001287001287,1,2001,green
+6.5,Asia,"Hasaki, Japan",0,mb,0.1287001287001287,1,2011,green
+6.9,Asia,"Hasaki, Japan",0,mwc,0.1287001287001287,1,2008,green
+7.1,Asia,"Hengchun, Taiwan",0,mwb,0.1287001287001287,1,2006,green
+6.9,Asia,"Hengchun, Taiwan",0,mwc,0.1287001287001287,1,2006,green
+7.5,Asia,"Hindu Kush region, Afghanistan",0,mww,0.1287001287001287,1,2015,orange
+6.6,Asia,"Hirara, Japan",1,mww,0.1287001287001287,1,2021,green
+7.2,Asia,"Hotan, China",0,mwc,0.1287001287001287,1,2008,green
+6.9,Asia,"Hotan, China",0,mww,0.1287001287001287,1,2014,yellow
+7.1,Asia,"Hualien City, Taiwan",0,mwc,0.1287001287001287,1,2002,green
+6.7,Asia,"Hualien City, Taiwan",1,mww,0.1287001287001287,1,2022,green
+6.7,Asia,"Hukay, Philippines",1,mww,0.1287001287001287,1,2021,green
+6.7,Asia,"Imphl, India",0,mww,0.1287001287001287,1,2016,orange
+6.6,Asia,"Ishikawa, Japan",0,mww,0.1287001287001287,1,2011,green
+7,Asia,"Ishinomaki, Japan",0,mwb,0.1287001287001287,1,2003,green
+13.7,Asia,"Ishinomaki, Japan",0,mwc,0.2574002574002574,1,2005,green
+7.1,Asia,"Ishinomaki, Japan",0,mww,0.1287001287001287,1,2011,green
+7,Asia,"Ishinomaki, Japan",1,mww,0.1287001287001287,1,2021,yellow
+6.5,Asia,"Izu Islands, Japan region",0,mww,0.1287001287001287,1,2013,green
+6.7,Asia,"Java, Indonesia",0,mww,0.1287001287001287,1,2013,green
+6.7,Asia,"Jimalalud, Philippines",0,mww,0.1287001287001287,1,2012,green
+6.7,Asia,"Jumla, Nepal",0,mwc,0.1287001287001287,1,2008,green
+7.4,Asia,"Jurm, Afghanistan",0,mwc,0.1287001287001287,1,2002,green
+6.6,Asia,"Jurm, Afghanistan",0,mwc,0.1287001287001287,1,2009,green
+6.7,Asia,"Kabanjahe, Indonesia",0,mww,0.1287001287001287,1,2011,green
+6.5,Asia,"Kairatu, Indonesia",1,mww,0.1287001287001287,1,2019,yellow
+7.7,Asia,"Kamaishi, Japan",0,mwc,0.1287001287001287,1,2011,green
+6.6,Asia,"Kangding, China",0,mww,0.1287001287001287,1,2022,orange
+6.6,Asia,"Kashiwazaki, Japan",0,mwc,0.1287001287001287,1,2007,green
+6.5,Asia,"Katabu, Indonesia",0,mwb,0.1287001287001287,1,2005,green
+6.9,Asia,"Katabu, Indonesia",0,mww,0.1287001287001287,1,2020,green
+7,Asia,"Katsuren-haebaru, Japan",0,mwc,0.1287001287001287,1,2010,green
+6.6,Asia,"Katsuura, Japan",0,mwc,0.1287001287001287,1,2005,green
+6.5,Asia,"Kawalu, Indonesia",0,mww,0.1287001287001287,1,2017,green
+7.5,Asia,"Kendari, Indonesia",0,mwc,0.1287001287001287,1,2001,green
+6.5,Asia,"Kepulauan Mentawai region, Indonesia",0,mwc,0.1287001287001287,1,2007,green
+7.7,Asia,"Khsh, Iran",0,mww,0.1287001287001287,1,2013,yellow
+6.8,Asia,"Khuzdar, Pakistan",0,mww,0.1287001287001287,1,2013,orange
+6.5,Asia,"Kisante, Philippines",1,mww,0.1287001287001287,1,2019,green
+6.7,Asia,"Kodri, Nepal",0,mww,0.1287001287001287,1,2015,yellow
+7.7,Asia,"Komandorskiye Ostrova, Russia region",1,mww,0.1287001287001287,1,2017,green
+6.6,Asia,"Kos, Greece",0,mww,0.1287001287001287,1,2017,yellow
+6.9,Asia,"Kota Ternate, Indonesia",0,mww,0.1287001287001287,1,2019,green
+7,Asia,"Kumamoto, Japan",1,mww,0.1287001287001287,1,2016,red
+6.8,Asia,"Kure, Japan",0,mwc,0.1287001287001287,1,2001,green
+8.3,Asia,Kuril Islands,0,mwc,0.1287001287001287,1,2006,green
+7.2,Asia,"Kuril’sk, Russia",1,mww,0.1287001287001287,1,2013,green
+7,Asia,"Kuril’sk, Russia",1,mww,0.1287001287001287,1,2020,yellow
+13.2,Asia,"Kushiro, Japan",0,mwc,0.2574002574002574,1,2003,green
+8.16,Asia,"Kushiro, Japan",0,mww,0.1287001287001287,1,2003,green
+6.5,Asia,"Labuan Bajo, Indonesia",0,mww,0.1287001287001287,1,2018,green
+6.9,Asia,"Labuan Lombok, Indonesia",0,mww,0.1287001287001287,1,2018,green
+6.9,Asia,"Labuan Lombok, Indonesia",0,mww,0.1287001287001287,1,2018,orange
+6.9,Asia,"Labuan, Indonesia",0,mww,0.1287001287001287,1,2019,green
+6.6,Asia,"Labuan, Indonesia",0,mww,0.1287001287001287,1,2022,green
+7.2,Asia,"Laiwui, Indonesia",1,mww,0.1287001287001287,1,2019,green
+6.5,Asia,"Lim-oo, Philippines",1,mww,0.1287001287001287,1,2017,yellow
+6.6,Asia,"Linqiong, China",0,mww,0.1287001287001287,1,2013,red
+6.5,Asia,"Lospalos, Timor Leste",0,mww,0.1287001287001287,1,2013,green
+6.7,Asia,"Lospalos, Timor Leste",0,mww,0.1287001287001287,1,2016,green
+7.3,Asia,"Lospalos, Timor Leste",0,mww,0.1287001287001287,1,2021,green
+6.5,Asia,"Lugu, Taiwan",1,mww,0.1287001287001287,1,2022,green
+7.5,Asia,"Lukatan, Philippines",0,mwc,0.1287001287001287,1,2001,green
+6.8,Asia,"Luwuk, Indonesia",1,mww,0.1287001287001287,1,2019,green
+6.5,Asia,"Mabua, Philippines",1,mww,0.1287001287001287,1,2017,yellow
+6.6,Asia,"Maebaru-ch, Japan",0,mwc,0.1287001287001287,1,2005,green
+6.8,Asia,"Magsaysay, Philippines",1,mww,0.1287001287001287,1,2019,yellow
+6.7,Asia,"Makurazaki, Japan",0,mww,0.1287001287001287,1,2015,green
+6.9,Asia,"Mangan, India",0,mww,0.1287001287001287,1,2011,green
+6.7,Asia,"Manokwari, Indonesia",0,ms,0.1287001287001287,1,2002,green
+6.5,Asia,"Manokwari, Indonesia",0,mwc,0.1287001287001287,1,2001,green
+7.6,Asia,"Manokwari, Indonesia",0,mwc,0.1287001287001287,1,2002,green
+6.5,Asia,"Manokwari, Indonesia",0,mwc,0.1287001287001287,1,2004,green
+15.100000000000001,Asia,"Manokwari, Indonesia",0,mwc,0.2574002574002574,1,2009,green
+6.7,Asia,"Manokwari, Indonesia",0,mww,0.1287001287001287,1,2012,green
+7.5,Asia,"Maubara, Timor Leste",0,mwc,0.1287001287001287,1,2004,green
+6.5,Asia,"Maubara, Timor Leste",0,mww,0.1287001287001287,1,2015,green
+7,Asia,"Maumere, Indonesia",0,mww,0.1287001287001287,1,2015,green
+6.7,Asia,"Maumere, Indonesia",0,mww,0.1287001287001287,1,2017,green
+6.9,Asia,"Mawlaik, Myanmar",0,mww,0.1287001287001287,1,2016,yellow
+6.5,Asia,"Mawu, China",0,mww,0.1287001287001287,1,2017,yellow
+7.2,Asia,"Meulaboh, Indonesia",0,mwc,0.1287001287001287,1,2010,green
+6.9,Asia,Micronesia region,1,mww,0.1287001287001287,1,2014,green
+6.8,Asia,"Mikuni, Japan",0,mwb,0.1287001287001287,1,2007,green
+7.2,Asia,"Mil’kovo, Russia",1,mww,0.1287001287001287,1,2016,green
+6.8,Asia,"Mindanao, Philippines",0,mwc,0.1287001287001287,1,2001,green
+7.5,Asia,"Mindanao, Philippines",0,mwc,0.1287001287001287,1,2002,green
+6.7,Asia,"Miyako, Japan",0,mwc,0.1287001287001287,1,2011,green
+6.7,Asia,"Miyako, Japan",0,mww,0.1287001287001287,1,2011,green
+6.7,Asia,"Miyako, Japan",1,mww,0.1287001287001287,1,2015,green
+6.9,Asia,"Mizusawa, Japan",0,mwc,0.1287001287001287,1,2008,green
+6.6,Asia,Molucca Sea,1,mww,0.1287001287001287,1,2019,green
+6.8,Asia,"Morioka, Japan",0,mwc,0.1287001287001287,1,2008,green
+7.2,Asia,"Murghob, Tajikistan",0,mww,0.1287001287001287,1,2015,green
+6.6,Asia,"Murghob, Tajikistan",0,mww,0.1287001287001287,1,2016,green
+7.6,Asia,"Muzaffarbd, Pakistan",0,mwc,0.1287001287001287,1,2005,green
+20.8,Asia,"Nabire, Indonesia",0,mwc,0.3861003861003861,1,2004,green
+6.5,Asia,"Nago, Japan",1,mww,0.1287001287001287,1,2014,green
+6.7,Asia,"Naisano Dua, Indonesia",0,mwb,0.1287001287001287,1,2004,green
+7,Asia,"Namie, Japan",0,mwc,0.1287001287001287,1,2008,green
+6.5,Asia,"Namie, Japan",0,mwc,0.1287001287001287,1,2010,green
+6.9,Asia,"Namie, Japan",0,mww,0.1287001287001287,1,2008,green
+6.5,Asia,"Namie, Japan",1,mww,0.1287001287001287,1,2014,green
+6.9,Asia,"Namie, Japan",1,mww,0.1287001287001287,1,2016,green
+7.1,Asia,"Namie, Japan",1,mww,0.1287001287001287,1,2021,orange
+7.3,Asia,"Namie, Japan",1,mww,0.1287001287001287,1,2022,red
+6.7,Asia,"Nanao, Japan",0,mwc,0.1287001287001287,1,2007,green
+6.8,Asia,"Naze, Japan",0,mwc,0.1287001287001287,1,2009,green
+6.6,Asia,"Naze, Japan",1,mww,0.1287001287001287,1,2020,green
+13.8,Asia,"Nemuro, Japan",0,mwb,0.2574002574002574,1,2004,green
+7.3,Asia,Nepal,0,mww,0.1287001287001287,1,2015,orange
+6.7,Asia,"Nookat, Kyrgyzstan",0,mwc,0.1287001287001287,1,2008,green
+6.6,Asia,"northern Qinghai, China",0,mww,0.1287001287001287,1,2022,orange
+6.8,Asia,"Obihiro, Japan",0,mwc,0.1287001287001287,1,2008,green
+6.9,Asia,"Obihiro, Japan",0,mww,0.1287001287001287,1,2013,yellow
+7.1,Asia,"off the east coast of Honshu, Japan",1,mww,0.1287001287001287,1,2013,green
+8.6,Asia,off the west coast of northern Sumatra,0,mw,0.1287001287001287,1,2012,yellow
+8.2,Asia,off the west coast of northern Sumatra,0,mwc,0.1287001287001287,1,2012,green
+7.2,Asia,off the west coast of northern Sumatra,0,mww,0.1287001287001287,1,2012,green
+6.6,Asia,"Ojiya, Japan",0,mwc,0.1287001287001287,1,2004,green
+6.7,Asia,Okhotsk,1,mwb,0.1287001287001287,1,2013,green
+15,Asia,Okhotsk,1,mww,0.2574002574002574,1,2013,green
+6.5,Asia,"Ozernovskiy, Russia",0,mwb,0.1287001287001287,1,2006,green
+13.4,Asia,"Ozernovskiy, Russia",1,mww,0.2574002574002574,1,2013,green
+6.7,Asia,"Ozernovskiy, Russia",1,mww,0.1287001287001287,1,2018,green
+13.2,Asia,"Padang, Indonesia",0,mwc,0.2574002574002574,1,2005,green
+13.7,Asia,"Padang, Indonesia",0,mwc,0.2574002574002574,1,2007,green
+13.3,Asia,"Padang, Indonesia",0,mwc,0.2574002574002574,1,2008,green
+6.7,Asia,"Padang, Indonesia",0,mwc,0.1287001287001287,1,2009,green
+6.7,Asia,"Padangsidempuan, Indonesia",0,mwb,0.1287001287001287,1,2005,green
+6.8,Asia,"Pagan region, Northern Mariana Islands",0,mww,0.1287001287001287,1,2013,green
+7.7,Asia,"Pagan region, Northern Mariana Islands",1,mww,0.1287001287001287,1,2016,green
+7.1,Asia,"Palimbang, Philippines",0,mwc,0.1287001287001287,1,2005,green
+7.5,Asia,"Palu, Indonesia",0,mww,0.1287001287001287,1,2018,red
+6.6,Asia,"Pamanukan, Indonesia",0,mww,0.1287001287001287,1,2016,green
+8,Asia,"Pangai, Tonga",0,mwc,0.1287001287001287,1,2006,green
+8,Asia,"Pangai, Tonga",0,mww,0.1287001287001287,1,2006,green
+6.5,Asia,"Pangai, Tonga",0,mww,0.1287001287001287,1,2021,green
+7.3,Asia,"Papua, Indonesia",0,mwb,0.1287001287001287,1,2004,green
+7,Asia,"Papua, Indonesia",0,mwc,0.1287001287001287,1,2010,green
+7.6,Asia,"Pariaman, Indonesia",0,mwc,0.1287001287001287,1,2009,green
+6.7,Asia,"Pariaman, Indonesia",0,mww,0.1287001287001287,1,2022,green
+6.9,Asia,Philippine Islands region,0,mwc,0.1287001287001287,1,2008,green
+6.7,Asia,"Piti Village, Guam",1,mww,0.1287001287001287,1,2014,green
+6.6,Asia,"Pólis, Cyprus",0,mww,0.1287001287001287,1,2022,green
+7,Asia,"Pondaguitan, Philippines",1,mww,0.1287001287001287,1,2018,green
+14.1,Asia,"Pondaguitan, Philippines",2,mww,0.2574002574002574,1,2021,green
+7.7,Asia,"Poronaysk, Russia",0,mww,0.1287001287001287,1,2012,green
+6.6,Asia,"Poso, Indonesia",0,mww,0.1287001287001287,1,2017,green
+6.5,Asia,"Pulau-Pulau Talaud, Indonesia",0,mwc,0.1287001287001287,1,2005,green
+6.9,Asia,"Qamdo, China",0,mwc,0.1287001287001287,1,2010,green
+7.5,Asia,"Rengasdengklok, Indonesia",0,mwc,0.1287001287001287,1,2007,green
+6.5,Asia,"Reuleuet, Indonesia",0,mww,0.1287001287001287,1,2016,yellow
+6.5,Asia,"Ruteng, Indonesia",0,mwc,0.1287001287001287,1,2003,green
+6.7,Asia,S,0,mwc,0.1287001287001287,1,2007,green
+7.2,Asia,"Sabang, Indonesia",0,mwc,0.1287001287001287,1,2004,green
+7.1,Asia,"Sagbayan, Philippines",1,mww,0.1287001287001287,1,2013,orange
+6.5,Asia,"San Jose Village, Northern Mariana Islands",0,mwc,0.1287001287001287,1,2002,green
+6.6,Asia,"San Pedro, Philippines",1,mww,0.1287001287001287,1,2020,yellow
+6.6,Asia,"Sangay, Philippines",0,mww,0.1287001287001287,1,2014,green
+7.2,Asia,"Sarangani, Philippines",0,mwc,0.1287001287001287,1,2009,green
+6.5,Asia,"Sarangani, Philippines",1,mww,0.1287001287001287,1,2016,green
+6.6,Asia,"Saryg-Sep, Russia",0,mww,0.1287001287001287,1,2011,green
+6.7,Asia,"Saryg-Sep, Russia",0,mww,0.1287001287001287,1,2012,green
+7.3,Asia,"Saumlaki, Indonesia",1,mww,0.1287001287001287,1,2019,green
+6.5,Asia,"Severo-Kuril’sk, Russia",1,mww,0.1287001287001287,1,2018,green
+7.5,Asia,"Severo-Kuril’sk, Russia",1,mww,0.1287001287001287,1,2020,green
+7.4,Asia,"Shing, Japan",0,mwb,0.1287001287001287,1,2004,green
+13.8,Asia,"Shing, Japan",0,mwc,0.2574002574002574,1,2004,green
+7.4,Asia,"Shizunai-furukawach, Japan",0,mwc,0.1287001287001287,1,2003,green
+6.7,Asia,"Shizunai-furukawach, Japan",1,mww,0.1287001287001287,1,2016,green
+6.8,Asia,"Shwebo, Myanmar",0,mww,0.1287001287001287,1,2012,green
+7.4,Asia,"Sinabang, Indonesia",0,mwb,0.1287001287001287,1,2002,green
+13.3,Asia,"Sinabang, Indonesia",0,mwb,0.2574002574002574,1,2005,green
+7.4,Asia,"Sinabang, Indonesia",0,mwc,0.1287001287001287,1,2008,green
+7.8,Asia,"Sinabang, Indonesia",0,mwc,0.1287001287001287,1,2010,green
+6.7,Asia,"Sinabang, Indonesia",0,mww,0.1287001287001287,1,2021,green
+7.7,Asia,"Singaparna, Indonesia",0,mwc,0.1287001287001287,1,2006,green
+6.8,Asia,"Singkil, Indonesia",0,mwb,0.1287001287001287,1,2006,green
+13.600000000000001,Asia,"Singkil, Indonesia",0,mwc,0.2574002574002574,1,2005,green
+8.6,Asia,"Singkil, Indonesia",0,mww,0.1287001287001287,1,2005,green
+6.6,Asia,"Sorong, Indonesia",0,mww,0.1287001287001287,1,2015,green
+7.8,Asia,"Southern Qinghai, China",0,mwc,0.1287001287001287,1,2001,green
+7.3,Asia,"Southern Qinghai, China",0,mww,0.1287001287001287,1,2021,orange
+7.6,Asia,"Sulangan, Philippines",0,mww,0.1287001287001287,1,2012,green
+6.5,Asia,"Sultanda, Turkey",0,mwc,0.1287001287001287,1,2002,green
+9.1,Asia,Sumatra - Andaman Islands Earthquake,0,mw,0.1287001287001287,1,2004,green
+7.8,Asia,"Sumatra, Indonesia",0,mww,0.1287001287001287,1,2016,green
+7.9,Asia,"Sungai Penuh, Indonesia",0,mwc,0.1287001287001287,1,2007,green
+13.7,Asia,"Sungai Penuh, Indonesia",0,mwc,0.2574002574002574,1,2008,green
+6.6,Asia,"Sungai Penuh, Indonesia",0,mwc,0.1287001287001287,1,2009,green
+7.8,Asia,"Sungai Penuh, Indonesia",0,mwc,0.1287001287001287,1,2010,green
+7.8,Asia,"Sungai Penuh, Indonesia",0,mww,0.1287001287001287,1,2007,green
+6.6,Asia,"Sungai Penuh, Indonesia",0,mww,0.1287001287001287,1,2016,green
+7.3,Asia,"Tabiauan, Philippines",1,mww,0.1287001287001287,1,2017,green
+6.9,Asia,"Tachilek, Myanmar",0,mww,0.1287001287001287,1,2011,green
+6.5,Asia,"Talisay, Philippines",0,mwb,0.1287001287001287,1,2004,green
+6.6,Asia,"Tateyama, Japan",0,mwc,0.1287001287001287,1,2009,green
+6.6,Asia,"Taungdwingyi, Myanmar",0,mwb,0.1287001287001287,1,2003,green
+7.1,Asia,"Ternate, Indonesia",0,mwc,0.1287001287001287,1,2001,green
+7.5,Asia,"Ternate, Indonesia",0,mwc,0.1287001287001287,1,2007,green
+13.899999999999999,Asia,"Ternate, Indonesia",2,mww,0.2574002574002574,1,2014,green
+8.1,Asia,the Kuril Islands,0,mwc,0.1287001287001287,1,2007,green
+7.9,Asia,"Tianpeng, China",0,mwc,0.1287001287001287,1,2008,green
+20.799999999999997,Asia,"Tilichiki, Russia",0,mwc,0.3861003861003861,1,2006,green
+6.9,Asia,"Tobelo, Indonesia",0,mwb,0.1287001287001287,1,2007,green
+7,Asia,"Tobelo, Indonesia",0,mwc,0.1287001287001287,1,2003,green
+6.6,Asia,"Tobelo, Indonesia",0,mwc,0.1287001287001287,1,2008,green
+6.6,Asia,"Tobelo, Indonesia",0,mww,0.1287001287001287,1,2012,green
+6.5,Asia,"Tobelo, Indonesia",1,mww,0.1287001287001287,1,2014,green
+6.6,Asia,"tsuchi, Japan",0,ms,0.1287001287001287,1,2011,green
+6.9,Asia,"Tual, Indonesia",0,mwc,0.1287001287001287,1,2009,green
+6.6,Asia,"Tual, Indonesia",0,mww,0.1287001287001287,1,2012,green
+6.7,Asia,"Turt, Mongolia",0,mww,0.1287001287001287,1,2021,green
+6.6,Asia,"Ust’-Kamchatsk Staryy, Russia",1,mww,0.1287001287001287,1,2017,yellow
+7.3,Asia,"Ust’-Kamchatsk Staryy, Russia",1,mww,0.1287001287001287,1,2018,green
+6.6,Asia,"Ust’-Kamchatsk Staryy, Russia",1,mww,0.1287001287001287,1,2021,green
+7.1,Asia,"Van, Turkey",0,mww,0.1287001287001287,1,2011,green
+7.1,Asia,"yama, Japan",0,mwc,0.1287001287001287,1,2009,green
+6.7,Asia,"Yonakuni, Japan",0,mwb,0.1287001287001287,1,2004,green
+6.8,Asia,"Yonakuni, Japan",0,mwc,0.1287001287001287,1,2001,green
+6.8,Asia,"Yujing, Taiwan",0,mwb,0.1287001287001287,1,2003,green
+6.9,Asia,"Yujing, Taiwan",1,mww,0.1287001287001287,1,2022,yellow
+6.5,Europe,Bouvet Island region,1,mww,0.1287001287001287,1,2017,green
+6.9,Europe,"Kamariótissa, Greece",0,mww,0.1287001287001287,1,2014,green
+6.6,Europe,"Kíssamos, Greece",0,mww,0.1287001287001287,1,2013,yellow
+6.5,Europe,"Koróni, Greece",0,mwc,0.1287001287001287,1,2008,green
+6.7,Europe,"Kýthira, Greece",0,mwb,0.1287001287001287,1,2006,green
+6.5,Europe,"Lefkáda, Greece",0,mww,0.1287001287001287,1,2015,orange
+6.8,Europe,"Lithakiá, Greece",0,mww,0.1287001287001287,1,2018,yellow
+6.9,Europe,"Methóni, Greece",0,mwc,0.1287001287001287,1,2008,green
+6.5,Europe,"Néa Anatolí, Greece",0,mww,0.1287001287001287,1,2020,green
+7,Europe,"Néon Karlovásion, Greece",0,mww,0.1287001287001287,1,2020,orange
+6.6,Europe,"Preci, Italy",0,mww,0.1287001287001287,1,2016,red
+7.6,Europe,Scotia Sea,0,mwc,0.1287001287001287,1,2003,green
+14.600000000000001,Europe,Scotia Sea,2,mww,0.2574002574002574,1,2013,green
+6.5,Europe,"Skýros, Greece",0,mwc,0.1287001287001287,1,2001,green
+7,North America,"Acapulco, Mexico",1,mww,0.1287001287001287,1,2021,red
+6.5,North America,"Adak, Alaska",1,mww,0.1287001287001287,1,2018,green
+14.399999999999999,North America,"Aguililla, Mexico",2,mww,0.2574002574002574,1,2022,yellow
+13.5,North America,"Atka, Alaska",1,mww,0.2574002574002574,1,2013,green
+13.3,North America,"Attu Station, Alaska",2,mww,0.2574002574002574,1,2017,green
+6.6,North America,"Bahía de Kino, Mexico",0,mwc,0.1287001287001287,1,2006,green
+6.9,North America,"Bahía de Kino, Mexico",0,mwc,0.1287001287001287,1,2009,green
+7.5,North America,"Barra Patuca, Honduras",1,mww,0.1287001287001287,1,2018,green
+6.6,North America,"Belén, Nicaragua",1,mww,0.1287001287001287,1,2014,green
+7.2,North America,"Big Lagoon, California",0,mwc,0.1287001287001287,1,2005,green
+6.7,North America,"Boca Chica, Panama",1,mww,0.1287001287001287,1,2022,green
+6.7,North America,"Brisas Barra de Suchiate, Mexico",0,mwc,0.1287001287001287,1,2008,green
+6.7,North America,"Burica, Panama",1,mww,0.1287001287001287,1,2021,green
+14.5,North America,"Cantwell, Alaska",0,mw,0.2574002574002574,1,2002,green
+6.9,North America,"Chignik, Alaska",1,mww,0.1287001287001287,1,2021,green
+7.9,North America,"Chiniak, Alaska",1,mww,0.1287001287001287,1,2018,green
+6.6,North America,"Cojutepeque, El Salvador",0,mwc,0.1287001287001287,1,2001,green
+6.5,North America,Costa Rica,0,mww,0.1287001287001287,1,2012,green
+7.2,North America,"Coyuquilla Norte, Mexico",1,mww,0.1287001287001287,1,2014,yellow
+7.6,North America,"Cuyutlán, Mexico",0,mwb,0.1287001287001287,1,2003,green
+7.2,North America,"Delta, B.C., MX",0,mw,0.1287001287001287,1,2010,red
+7.5,North America,"Edna Bay, Alaska",0,mw,0.1287001287001287,1,2013,green
+6.5,North America,"El Habillal, Mexico",0,mwb,0.1287001287001287,1,2012,green
+6.7,North America,"El Huitusi, Mexico",0,mwc,0.1287001287001287,1,2010,green
+6.6,North America,"Etchoropo, Mexico",1,mww,0.1287001287001287,1,2013,green
+6.5,North America,"Ferndale, California",0,mw,0.1287001287001287,1,2010,green
+6.6,North America,"Ferndale, California",1,mww,0.1287001287001287,1,2016,green
+6.9,North America,"Fox Islands, Aleutian Islands, Alaska",1,mww,0.1287001287001287,1,2015,green
+6.5,North America,"General Pascual Fentes, Mexico",0,mwc,0.1287001287001287,1,2008,green
+6.8,North America,"George Town, Cayman Islands",0,mwb,0.1287001287001287,1,2004,green
+6.5,North America,"Greenland, Barbados",1,mww,0.1287001287001287,1,2014,green
+7.3,North America,"Guanaja, Honduras",0,mwc,0.1287001287001287,1,2009,green
+6.6,North America,"Helio García Alfaro, Mexico",0,mww,0.1287001287001287,1,2011,green
+7.6,North America,"Hojancha, Costa Rica",0,mww,0.1287001287001287,1,2012,green
+7,North America,"Inarajan Village, Guam",0,mwc,0.1287001287001287,1,2001,green
+6.8,North America,"Indianola, California",1,mw,0.1287001287001287,1,2014,green
+7.3,North America,"Intipucá, El Salvador",1,mww,0.1287001287001287,1,2014,yellow
+6.7,North America,"Iztapa, Guatemala",0,mwc,0.1287001287001287,1,2007,green
+6.5,North America,"Jiquilillo, Nicaragua",1,mww,0.1287001287001287,1,2021,green
+6.6,North America,"Kokhanok, Alaska",0,mw,0.1287001287001287,1,2001,green
+6.6,North America,"La Cruz de Loreto, Mexico",1,mww,0.1287001287001287,1,2016,green
+6.6,North America,"La Libertad, El Salvador",1,mww,0.1287001287001287,1,2019,yellow
+6.9,North America,"Leilani Estates, Hawaii",1,mw,0.1287001287001287,1,2018,yellow
+7,North America,"Léogâne, Haiti",0,mwc,0.1287001287001287,1,2010,green
+6.8,North America,"Longbranch, Washington",0,md,0.1287001287001287,1,2001,green
+7.7,North America,"Lucea, Jamaica",1,mww,0.1287001287001287,1,2020,yellow
+6.6,North America,"Manuel Ávila Camacho (Ponte Duro), Mexico",1,mww,0.1287001287001287,1,2015,green
+7,North America,"Masachapa, Nicaragua",0,mwc,0.1287001287001287,1,2004,green
+6.5,North America,"Masachapa, Nicaragua",1,mww,0.1287001287001287,1,2013,green
+6.6,North America,"Masachapa, Nicaragua",1,mww,0.1287001287001287,1,2022,green
+7.1,North America,"Matzaco, Mexico",0,mww,0.1287001287001287,1,2017,green
+6.5,North America,"Monte Cristo Range, NV Earthquake",0,ml,0.1287001287001287,1,2020,green
+26.4,North America,"Nikolski, Alaska",4,Mi,0.5148005148005148,1,2022,green
+13.399999999999999,North America,"Nikolski, Alaska",2,mww,0.2574002574002574,1,2022,green
+7.2,North America,"Nippes, Haiti",1,mww,0.1287001287001287,1,2021,red
+6.5,North America,"Nuevo Balsas, Mexico",0,mww,0.1287001287001287,1,2011,green
+6.8,North America,"Nuxco, Mexico",0,mwc,0.1287001287001287,1,2002,green
+6.9,North America,"Old Harbor, Alaska",0,mw,0.1287001287001287,1,2001,green
+6.7,North America,"Olonkinbyen, Svalbard and Jan Mayen",1,mww,0.1287001287001287,1,2018,green
+6.5,North America,"Parrita, Costa Rica",1,mww,0.1287001287001287,1,2017,yellow
+7.1,North America,"Pedro Bay, Alaska",1,mw,0.1287001287001287,1,2016,green
+7.8,North America,"Perryville, Alaska",1,mww,0.1287001287001287,1,2020,green
+22,North America,"Perryville, Alaska",3,mww,0.3861003861003861,1,2021,green
+8.2,North America,"Perryville, Alaska",1,mww,0.1287001287001287,1,2021,yellow
+7.2,North America,"Pinotepa de Don Luis, Mexico",1,mww,0.1287001287001287,1,2018,yellow
+7.1,North America,"Point MacKenzie, Alaska",1,mw,0.1287001287001287,1,2018,orange
+6.7,North America,"Port McNeill, Canada",0,mwb,0.1287001287001287,1,2004,green
+19.8,North America,"Port McNeill, Canada",2,mww,0.3861003861003861,1,2018,green
+6.7,North America,Prince Edward Islands region,0,mww,0.1287001287001287,1,2019,green
+7.8,North America,"Prince Rupert, Canada",0,mww,0.1287001287001287,1,2012,green
+6.5,North America,"Progreso, Panama",0,mwb,0.1287001287001287,1,2003,green
+6.7,North America,"Puako, Hawaii",0,md,0.1287001287001287,1,2006,green
+7.7,North America,"Puerto El Triunfo, El Salvador",0,mwc,0.1287001287001287,1,2001,green
+7.3,North America,"Puerto El Triunfo, El Salvador",0,mww,0.1287001287001287,1,2012,green
+6.9,North America,"Puerto El Triunfo, El Salvador",1,mww,0.1287001287001287,1,2016,green
+6.9,North America,"Puerto Madero, Mexico",1,mww,0.1287001287001287,1,2014,orange
+6.7,North America,"Puerto Madero, Mexico",1,mww,0.1287001287001287,1,2019,yellow
+6.5,North America,"Puerto San José, Guatemala",0,mwc,0.1287001287001287,1,2003,green
+6.8,North America,"Puerto San José, Guatemala",1,mww,0.1287001287001287,1,2017,yellow
+6.5,North America,"Punta de Burica, Panama",0,mwc,0.1287001287001287,1,2002,green
+13.1,North America,"Punta de Burica, Panama",2,mww,0.2574002574002574,1,2014,green
+6.5,North America,"Punta de Burica, Panama",1,mww,0.1287001287001287,1,2015,green
+7.9,North America,"Rat Islands, Aleutian Islands, Alaska",1,mww,0.1287001287001287,1,2014,green
+6.6,North America,"San Juan del Sur, Nicaragua",0,mwc,0.1287001287001287,1,2005,green
+7,North America,"San Luis, Mexico",0,mww,0.1287001287001287,1,2012,green
+6.9,North America,"San Pablo, Guatemala",1,mww,0.1287001287001287,1,2017,yellow
+6.5,North America,"San Simeon, California",0,mw,0.1287001287001287,1,2003,green
+7.6,North America,"Sand Point, Alaska",1,mww,0.1287001287001287,1,2020,yellow
+7.4,North America,"Santa María Xadani, Mexico",1,mww,0.1287001287001287,1,2020,orange
+7.4,North America,"Santiago Llano Grande, Mexico",0,mww,0.1287001287001287,1,2012,green
+7.1,North America,"Searles Valley, CA",0,mw,0.1287001287001287,1,2019,yellow
+6.5,North America,"Stanley, Idaho",0,mww,0.1287001287001287,1,2020,green
+6.7,North America,"Topolobampo, Mexico",1,mww,0.1287001287001287,1,2015,green
+6.8,North America,"Ugashik, Alaska",1,mw,0.1287001287001287,1,2015,green
+6.5,North America,"Vernon, Canada",1,mww,0.1287001287001287,1,2014,green
+7.6,Oceania,"‘Ohonua, Tonga",0,mwc,0.1287001287001287,1,2009,green
+14.3,Oceania,"Aitape, Papua New Guinea",0,mwc,0.2574002574002574,1,2002,green
+6.6,Oceania,"Aitape, Papua New Guinea",1,mww,0.1287001287001287,1,2013,green
+6.5,Oceania,"Alo, Wallis and Futuna",1,mww,0.1287001287001287,1,2015,green
+6.5,Oceania,"Alo, Wallis and Futuna",1,mww,0.1287001287001287,1,2021,green
+7.8,Oceania,"Amberley, New Zealand",1,mww,0.1287001287001287,1,2016,orange
+6.5,Oceania,"Amberley, New Zealand",1,mww,0.1287001287001287,1,2016,yellow
+6.6,Oceania,"Angoram, Papua New Guinea",0,mww,0.1287001287001287,1,2011,green
+6.5,Oceania,"Angoram, Papua New Guinea",1,mww,0.1287001287001287,1,2017,green
+6.6,Oceania,"Auckland Islands, New Zealand region",1,mww,0.1287001287001287,1,2017,green
+7.3,Oceania,"Ba, Fiji",0,mwc,0.1287001287001287,1,2009,green
+6.6,Oceania,"Broome, Australia",0,mww,0.1287001287001287,1,2019,green
+7.1,Oceania,"Bulolo, Papua New Guinea",1,mww,0.1287001287001287,1,2019,yellow
+13.4,Oceania,central Mid-Atlantic Ridge,1,mww,0.2574002574002574,1,2020,green
+6.5,Oceania,Fiji region,0,mww,0.1287001287001287,1,2013,green
+14,Oceania,Fiji region,2,mww,0.2574002574002574,1,2014,green
+6.9,Oceania,Fiji region,1,mww,0.1287001287001287,1,2016,green
+6.5,Oceania,"Finschhafen, Papua New Guinea",0,mww,0.1287001287001287,1,2011,green
+6.5,Oceania,"Finschhafen, Papua New Guinea",1,mww,0.1287001287001287,1,2013,green
+6.6,Oceania,"Finschhafen, Papua New Guinea",1,mww,0.1287001287001287,1,2014,green
+6.6,Oceania,"Gisborne, New Zealand",0,mwc,0.1287001287001287,1,2007,green
+6.7,Oceania,"Gisborne, New Zealand",1,mww,0.1287001287001287,1,2014,green
+7,Oceania,"Gisborne, New Zealand",1,mww,0.1287001287001287,1,2016,green
+7.3,Oceania,"Gisborne, New Zealand",1,mww,0.1287001287001287,1,2021,green
+8.1,Oceania,"Gizo, Solomon Islands",0,mwc,0.1287001287001287,1,2007,green
+20.5,Oceania,"Gizo, Solomon Islands",0,mwc,0.3861003861003861,1,2010,green
+6.5,Oceania,"Gizo, Solomon Islands",1,mww,0.1287001287001287,1,2015,green
+6.5,Oceania,"Haveluloto, Tonga",0,mww,0.1287001287001287,1,2021,green
+6.9,Oceania,"Hihifo, Tonga",0,mwc,0.1287001287001287,1,2006,green
+6.5,Oceania,"Hihifo, Tonga",1,mww,0.1287001287001287,1,2015,green
+6.8,Oceania,"Hihifo, Tonga",1,mww,0.1287001287001287,1,2017,green
+6.6,Oceania,"Isangel, Vanuatu",0,mwb,0.1287001287001287,1,2003,green
+7.1,Oceania,"Isangel, Vanuatu",0,mwb,0.1287001287001287,1,2007,green
+7.3,Oceania,"Isangel, Vanuatu",0,mwc,0.1287001287001287,1,2008,green
+7.3,Oceania,"Isangel, Vanuatu",0,mwc,0.1287001287001287,1,2010,green
+7,Oceania,"Isangel, Vanuatu",0,mww,0.1287001287001287,1,2011,green
+6.6,Oceania,"Isangel, Vanuatu",1,mww,0.1287001287001287,1,2014,green
+7,Oceania,"Isangel, Vanuatu",1,mww,0.1287001287001287,1,2022,green
+6.6,Oceania,"Kainantu, Papua New Guinea",0,mww,0.1287001287001287,1,2012,green
+7.6,Oceania,"Kainantu, Papua New Guinea",1,mww,0.1287001287001287,1,2022,yellow
+6.6,Oceania,"Kandrian, Papua New Guinea",0,mwb,0.1287001287001287,1,2010,green
+6.6,Oceania,"Kandrian, Papua New Guinea",0,mww,0.1287001287001287,1,2013,green
+6.8,Oceania,"Kandrian, Papua New Guinea",1,mww,0.1287001287001287,1,2016,green
+6.5,Oceania,Kermadec Islands region,0,mwb,0.1287001287001287,1,2021,green
+7.6,Oceania,Kermadec Islands region,0,mww,0.1287001287001287,1,2011,green
+6.9,Oceania,Kermadec Islands region,0,mww,0.1287001287001287,1,2018,green
+6.5,Oceania,Kermadec Islands region,1,mww,0.1287001287001287,1,2022,green
+13.2,Oceania,"Kermadec Islands, New Zealand",0,mwc,0.2574002574002574,1,2014,green
+6.5,Oceania,"Kermadec Islands, New Zealand",1,mww,0.1287001287001287,1,2013,green
+6.9,Oceania,"Kermadec Islands, New Zealand",1,mww,0.1287001287001287,1,2014,green
+22,Oceania,"Kermadec Islands, New Zealand",3,mww,0.3861003861003861,1,2021,green
+6.6,Oceania,"Kermadec Islands, New Zealand",1,mww,0.1287001287001287,1,2022,green
+6.6,Oceania,"Kimbe, Papua New Guinea",0,mwb,0.1287001287001287,1,2003,green
+7,Oceania,"Kimbe, Papua New Guinea",0,mwc,0.1287001287001287,1,2001,green
+6.6,Oceania,"Kimbe, Papua New Guinea",0,mwc,0.1287001287001287,1,2002,green
+19.8,Oceania,"Kimbe, Papua New Guinea",0,mwc,0.3861003861003861,1,2006,green
+6.9,Oceania,"Kimbe, Papua New Guinea",0,mwc,0.1287001287001287,1,2010,green
+7,Oceania,"Kimbe, Papua New Guinea",0,mww,0.1287001287001287,1,2010,green
+20.6,Oceania,"Kimbe, Papua New Guinea",3,mww,0.3861003861003861,1,2018,green
+13.5,Oceania,"Kirakira, Solomon Islands",0,mwb,0.2574002574002574,1,2004,green
+7.3,Oceania,"Kirakira, Solomon Islands",0,mwc,0.1287001287001287,1,2003,green
+6.6,Oceania,"Kirakira, Solomon Islands",0,mwc,0.1287001287001287,1,2007,green
+13.600000000000001,Oceania,"Kirakira, Solomon Islands",0,mwc,0.2574002574002574,1,2010,green
+6.8,Oceania,"Kirakira, Solomon Islands",0,mww,0.1287001287001287,1,2011,green
+21.6,Oceania,"Kirakira, Solomon Islands",2,mww,0.3861003861003861,1,2014,green
+13.7,Oceania,"Kirakira, Solomon Islands",2,mww,0.2574002574002574,1,2015,green
+21.2,Oceania,"Kirakira, Solomon Islands",2,mww,0.3861003861003861,1,2016,green
+6.5,Oceania,"Kirakira, Solomon Islands",1,mww,0.1287001287001287,1,2017,green
+6.5,Oceania,"Kirakira, Solomon Islands",1,mww,0.1287001287001287,1,2018,green
+6.7,Oceania,"Kokopo, Papua New Guinea",0,mwb,0.1287001287001287,1,2003,green
+13.399999999999999,Oceania,"Kokopo, Papua New Guinea",0,mwc,0.2574002574002574,1,2003,green
+14.2,Oceania,"Kokopo, Papua New Guinea",0,mwc,0.2574002574002574,1,2005,green
+6.8,Oceania,"Kokopo, Papua New Guinea",0,mwc,0.1287001287001287,1,2007,green
+6.7,Oceania,"Kokopo, Papua New Guinea",0,mwc,0.1287001287001287,1,2009,green
+6.5,Oceania,"Kokopo, Papua New Guinea",0,mww,0.1287001287001287,1,2012,green
+7.3,Oceania,"Kokopo, Papua New Guinea",1,mww,0.1287001287001287,1,2013,green
+6.5,Oceania,"Kokopo, Papua New Guinea",1,mww,0.1287001287001287,1,2014,green
+28.5,Oceania,"Kokopo, Papua New Guinea",4,mww,0.5148005148005148,1,2015,green
+7.9,Oceania,"Kokopo, Papua New Guinea",1,mww,0.1287001287001287,1,2016,yellow
+6.8,Oceania,"Kokopo, Papua New Guinea",1,mww,0.1287001287001287,1,2018,green
+6.8,Oceania,"Lae, Papua New Guinea",0,mwc,0.1287001287001287,1,2007,green
+6.8,Oceania,"Lae, Papua New Guinea",0,mww,0.1287001287001287,1,2012,green
+6.5,Oceania,"Lakatoro, Vanuatu",1,mww,0.1287001287001287,1,2018,green
+6.6,Oceania,"Lakatoro, Vanuatu",1,mww,0.1287001287001287,1,2019,green
+7.2,Oceania,"Lata, Solomon Islands",0,mwc,0.1287001287001287,1,2007,green
+49.300000000000004,Oceania,"Lata, Solomon Islands",5,mww,0.9009009009009009,1,2013,green
+13.8,Oceania,"Lata, Solomon Islands",2,mww,0.2574002574002574,1,2015,green
+6.6,Oceania,"Lata, Solomon Islands",1,mww,0.1287001287001287,1,2020,green
+6.5,Oceania,"Lautoka, Fiji",0,mwc,0.1287001287001287,1,2006,green
+7.3,Oceania,"L'Esperance Rock, New Zealand",1,mww,0.1287001287001287,1,2019,green
+29.599999999999998,Oceania,"Levuka, Fiji",4,mww,0.5148005148005148,1,2018,green
+7.2,Oceania,"Luganville, Vanuatu",0,mwb,0.1287001287001287,1,2007,green
+8.1,Oceania,Macquarie Island,0,mwc,0.1287001287001287,1,2004,green
+6.5,Oceania,"Madang, Papua New Guinea",0,mwc,0.1287001287001287,1,2010,green
+6.8,Oceania,"Malango, Solomon Islands",0,mwc,0.1287001287001287,1,2001,green
+6.5,Oceania,"Malango, Solomon Islands",0,mwc,0.1287001287001287,1,2007,green
+13.3,Oceania,"Malango, Solomon Islands",2,mww,0.2574002574002574,1,2015,green
+7,Oceania,"Malango, Solomon Islands",1,mww,0.1287001287001287,1,2022,green
+6.7,Oceania,"Mata-Utu, Wallis and Futuna",1,mww,0.1287001287001287,1,2014,green
+8.1,Oceania,"Matavai, Samoa",0,mwc,0.1287001287001287,1,2009,green
+7.1,Oceania,"Merizo Village, Guam",0,mwc,0.1287001287001287,1,2002,green
+7,Oceania,"Methven, New Zealand",0,mwc,0.1287001287001287,1,2010,green
+6.9,Oceania,"Nadi, Fiji",1,mww,0.1287001287001287,1,2017,green
+7.6,Oceania,"Namatanai, Papua New Guinea",1,mww,0.1287001287001287,1,2019,green
+13.1,Oceania,"Ndoi Island, Fiji",1,mww,0.2574002574002574,1,2019,green
+6.6,Oceania,"Neiafu, Tonga",0,mww,0.1287001287001287,1,2012,green
+6.6,Oceania,"Neiafu, Tonga",1,mww,0.1287001287001287,1,2019,green
+7.3,Oceania,"Neiafu, Tonga",1,mww,0.1287001287001287,1,2022,green
+7.3,Oceania,"New Britain region, Papua New Guinea",0,mwc,0.1287001287001287,1,2010,green
+6.7,Oceania,"New Ireland region, Papua New Guinea",0,mwb,0.1287001287001287,1,2002,green
+6.6,Oceania,"Nicobar Islands, India region",0,mwc,0.1287001287001287,1,2004,green
+7.2,Oceania,"Nicobar Islands, India region",0,mwc,0.1287001287001287,1,2005,green
+7.5,Oceania,"Nicobar Islands, India region",0,mwc,0.1287001287001287,1,2010,green
+6.6,Oceania,"Nicobar Islands, India region",0,mww,0.1287001287001287,1,2015,green
+6.8,Oceania,"Norsup, Vanuatu",0,mwb,0.1287001287001287,1,2006,green
+7,Oceania,"Norsup, Vanuatu",1,mww,0.1287001287001287,1,2016,green
+6.6,Oceania,"Panguna, Papua New Guinea",0,mb,0.1287001287001287,1,2007,green
+6.8,Oceania,"Panguna, Papua New Guinea",0,mwb,0.1287001287001287,1,2006,green
+6.7,Oceania,"Panguna, Papua New Guinea",0,mwc,0.1287001287001287,1,2001,green
+6.9,Oceania,"Panguna, Papua New Guinea",0,mwc,0.1287001287001287,1,2007,green
+13.399999999999999,Oceania,"Panguna, Papua New Guinea",2,mww,0.2574002574002574,1,2013,green
+34.3,Oceania,"Panguna, Papua New Guinea",5,mww,0.6435006435006435,1,2014,green
+7.1,Oceania,"Panguna, Papua New Guinea",1,mww,0.1287001287001287,1,2015,green
+7.9,Oceania,"Panguna, Papua New Guinea",1,mww,0.1287001287001287,1,2017,yellow
+7,Oceania,"Popondetta, Papua New Guinea",1,mww,0.1287001287001287,1,2020,green
+7.1,Oceania,"Port-Olry, Vanuatu",0,mwb,0.1287001287001287,1,2001,green
+6.5,Oceania,"Port-Olry, Vanuatu",1,mww,0.1287001287001287,1,2014,green
+7.1,Oceania,"Port-Olry, Vanuatu",1,mww,0.1287001287001287,1,2015,green
+6.9,Oceania,"Port-Olry, Vanuatu",1,mww,0.1287001287001287,1,2016,green
+6.8,Oceania,"Port-Olry, Vanuatu",1,mww,0.1287001287001287,1,2017,green
+6.9,Oceania,"Port-Olry, Vanuatu",1,mww,0.1287001287001287,1,2021,green
+13.8,Oceania,"Port-Vila, Vanuatu",0,mwc,0.2574002574002574,1,2002,green
+7.3,Oceania,"Port-Vila, Vanuatu",0,mwc,0.1287001287001287,1,2010,green
+6.5,Oceania,"Port-Vila, Vanuatu",0,mwc,0.1287001287001287,1,2011,green
+14.3,Oceania,"Port-Vila, Vanuatu",0,mww,0.2574002574002574,1,2011,green
+7.1,Oceania,"Port-Vila, Vanuatu",0,mww,0.1287001287001287,1,2012,green
+6.8,Oceania,"Port-Vila, Vanuatu",1,mww,0.1287001287001287,1,2015,green
+6.5,Oceania,"Rabaul, Papua New Guinea",0,mwb,0.1287001287001287,1,2003,green
+6.5,Oceania,"Rabaul, Papua New Guinea",1,mww,0.1287001287001287,1,2013,green
+6.8,Oceania,"Rabaul, Papua New Guinea",1,mww,0.1287001287001287,1,2016,green
+7.1,Oceania,"Riverton, New Zealand",0,mwc,0.1287001287001287,1,2004,green
+6.5,Oceania,"Sola, Vanuatu",0,mwb,0.1287001287001287,1,2004,green
+6.7,Oceania,"Sola, Vanuatu",0,mwb,0.1287001287001287,1,2005,green
+6.5,Oceania,"Sola, Vanuatu",0,mwb,0.1287001287001287,1,2010,green
+6.7,Oceania,"Sola, Vanuatu",0,mwc,0.1287001287001287,1,2002,green
+6.9,Oceania,"Sola, Vanuatu",0,mwc,0.1287001287001287,1,2008,green
+22,Oceania,"Sola, Vanuatu",0,mwc,0.3861003861003861,1,2009,green
+7.2,Oceania,"Sola, Vanuatu",0,mwc,0.1287001287001287,1,2010,green
+7.7,Oceania,"Sola, Vanuatu",0,mww,0.1287001287001287,1,2009,green
+6.7,Oceania,"Sola, Vanuatu",0,mww,0.1287001287001287,1,2012,green
+6.5,Oceania,"Sola, Vanuatu",1,mww,0.1287001287001287,1,2014,green
+13.4,Oceania,"Sola, Vanuatu",2,mww,0.2574002574002574,1,2016,green
+6.6,Oceania,"Sola, Vanuatu",1,mww,0.1287001287001287,1,2019,green
+7.3,Oceania,"Tadine, New Caledonia",0,mwc,0.1287001287001287,1,2003,green
+7,Oceania,"Tadine, New Caledonia",0,mww,0.1287001287001287,1,2011,green
+26.9,Oceania,"Tadine, New Caledonia",4,mww,0.5148005148005148,1,2017,green
+27.700000000000003,Oceania,"Tadine, New Caledonia",4,mww,0.5148005148005148,1,2018,green
+6.9,Oceania,"Tadine, New Caledonia",1,mww,0.1287001287001287,1,2022,green
+6.7,Oceania,"Tari, Papua New Guinea",1,mww,0.1287001287001287,1,2018,green
+7.5,Oceania,"Tari, Papua New Guinea",1,mww,0.1287001287001287,1,2018,yellow
+7.2,Oceania,"Te Anau, New Zealand",0,mwc,0.1287001287001287,1,2003,green
+6.8,Oceania,"Te Anau, New Zealand",0,mwc,0.1287001287001287,1,2007,green
+7.8,Oceania,"Te Anau, New Zealand",0,mwc,0.1287001287001287,1,2009,green
+7,Oceania,the Fiji Islands,1,mwb,0.1287001287001287,1,2022,green
+6.9,Oceania,the Fiji Islands,1,mww,0.1287001287001287,1,2017,green
+6.5,Oceania,the Fiji Islands,0,mww,0.1287001287001287,1,2018,green
+13.6,Oceania,the Fiji Islands,2,mww,0.2574002574002574,1,2022,green
+6.5,Oceania,the Kermadec Islands,1,mww,0.1287001287001287,1,2014,green
+7.4,Oceania,the Kermadec Islands,1,mww,0.1287001287001287,1,2020,green
+6.6,Oceania,the Kermadec Islands,1,mww,0.1287001287001287,1,2022,green
+7.2,Oceania,the Loyalty Islands,1,mww,0.1287001287001287,1,2016,green
+7.7,Oceania,the Loyalty Islands,1,mww,0.1287001287001287,1,2021,green
+7,Oceania,the Loyalty Islands,1,mww,0.1287001287001287,1,2022,green
+7.4,Oceania,"Vaini, Tonga",1,mww,0.1287001287001287,1,2013,green
+14.2,Oceania,Vanuatu region,2,mww,0.2574002574002574,1,2021,green
+7.1,Oceania,"Wau, Papua New Guinea",0,mww,0.1287001287001287,1,2011,green
+6.8,Oceania,"Wé, New Caledonia",0,mww,0.1287001287001287,1,2011,green
+6.6,South America,"Achanizo, Peru",0,mwc,0.1287001287001287,1,2001,green
+6.8,South America,"Aniso, Peru",1,mww,0.1287001287001287,1,2014,green
+6.7,South America,Ant,0,mwb,0.1287001287001287,1,2007,green
+6.8,South America,Ant,0,mwc,0.1287001287001287,1,2007,green
+8.4,South America,"Atico, Peru",0,mww,0.1287001287001287,1,2001,green
+7.1,South America,"Atiquipa, Peru",1,mww,0.1287001287001287,1,2013,green
+7.1,South America,"Atiquipa, Peru",1,mww,0.1287001287001287,1,2018,green
+7,South America,"Azángaro, Peru",1,mww,0.1287001287001287,1,2019,green
+7.2,South America,"Azángaro, Peru",1,mww,0.1287001287001287,1,2022,green
+6.7,South America,"Bahía Solano, Colombia",1,mww,0.1287001287001287,1,2013,green
+7.5,South America,"Barranca, Peru",1,mww,0.1287001287001287,1,2021,yellow
+6.5,South America,"Barranca, Peru",0,mww,0.1287001287001287,1,2022,green
+7.4,South America,"Basse-Pointe, Martinique",0,mwb,0.1287001287001287,1,2007,green
+6.5,South America,"Bathsheba, Barbados",1,mww,0.1287001287001287,1,2015,green
+6.8,South America,"Boyuibe, Bolivia",0,mww,0.1287001287001287,1,2018,green
+13.1,South America,"Bristol Island, South Sandwich Islands",2,mww,0.2574002574002574,1,2019,green
+6.8,South America,"Buala, Solomon Islands",1,mww,0.1287001287001287,1,2015,green
+6.5,South America,"Calama, Chile",0,mwc,0.1287001287001287,1,2002,green
+6.6,South America,"Cañete, Chile",0,mwb,0.1287001287001287,1,2004,green
+6.6,South America,"Cañete, Chile",0,mwc,0.1287001287001287,1,2010,green
+7.2,South America,"Carahue, Chile",0,mww,0.1287001287001287,1,2011,green
+7.3,South America,"Carúpano, Venezuela",1,mww,0.1287001287001287,1,2018,yellow
+6.5,South America,"Champerico, Guatemala",0,mww,0.1287001287001287,1,2012,green
+7.4,South America,"Champerico, Guatemala",0,mww,0.1287001287001287,1,2012,yellow
+8.2,South America,"Chiapas, Mexico",1,mww,0.1287001287001287,1,2017,red
+6.7,South America,"Constitución, Chile",0,mww,0.1287001287001287,1,2011,green
+7.1,South America,"Constitución, Chile",0,mww,0.1287001287001287,1,2012,green
+6.7,South America,"Constitución, Chile",1,mww,0.1287001287001287,1,2019,green
+7,South America,"Contamana, Peru",0,mww,0.1287001287001287,1,2011,green
+6.7,South America,"Copiapó, Chile",0,mwb,0.1287001287001287,1,2002,green
+6.7,South America,"Copiapó, Chile",0,mwb,0.1287001287001287,1,2006,green
+6.5,South America,"Copiapó, Chile",0,mwc,0.1287001287001287,1,2006,green
+6.6,South America,"Coquimbo, Chile",1,mww,0.1287001287001287,1,2013,green
+13.8,South America,"Coquimbo, Chile",1,mww,0.2574002574002574,1,2015,green
+6.7,South America,"Coquimbo, Chile",1,mww,0.1287001287001287,1,2019,orange
+6.7,South America,"Corral, Chile",1,mww,0.1287001287001287,1,2020,green
+7.1,South America,Ecuador,0,mwc,0.1287001287001287,1,2010,green
+6.7,South America,"El Aguilar, Argentina",1,mww,0.1287001287001287,1,2015,green
+6.7,South America,"Hacienda La Calera, Chile",0,mww,0.1287001287001287,1,2012,green
+26.8,South America,"Illapel, Chile",1,mww,0.5148005148005148,1,2015,green
+8.3,South America,"Illapel, Chile",1,mww,0.1287001287001287,1,2015,orange
+15.2,South America,"Iñapari, Peru",1,mww,0.2574002574002574,1,2015,green
+7.1,South America,"Iñapari, Peru",0,mww,0.1287001287001287,1,2018,green
+7.8,South America,"Iquique, Chile",0,mwb,0.1287001287001287,1,2005,green
+6.5,South America,"Iquique, Chile",0,mwc,0.1287001287001287,1,2009,green
+20.1,South America,"Iquique, Chile",1,mww,0.3861003861003861,1,2014,green
+15.899999999999999,South America,"Iquique, Chile",2,mww,0.2574002574002574,1,2014,yellow
+7.4,South America,"Lebu, Chile",0,mwc,0.1287001287001287,1,2010,green
+6.8,South America,"Macas, Ecuador",0,mwc,0.1287001287001287,1,2007,green
+6.6,South America,"Monte Patria, Chile",0,mwb,0.1287001287001287,1,2002,green
+6.7,South America,"Muisne, Ecuador",1,mww,0.1287001287001287,1,2016,green
+7.8,South America,"Muisne, Ecuador",1,mww,0.1287001287001287,1,2016,orange
+8,South America,"Navarro, Peru",1,mww,0.1287001287001287,1,2019,orange
+6.8,South America,"Ovalle, Chile",0,mwc,0.1287001287001287,1,2003,green
+6.8,South America,"Ovalle, Chile",1,mww,0.1287001287001287,1,2015,green
+6.7,South America,"Pacocha, Peru",0,mwc,0.1287001287001287,1,2001,green
+6.5,South America,"Padilla, Bolivia",0,mww,0.1287001287001287,1,2017,green
+7.5,South America,"Palora, Ecuador",1,mww,0.1287001287001287,1,2019,yellow
+7.2,South America,"Pizarro, Colombia",0,mwb,0.1287001287001287,1,2004,green
+7.6,South America,"Punta de Bombón, Peru",0,mwc,0.1287001287001287,1,2001,green
+7.6,South America,"Quellón, Chile",1,mww,0.1287001287001287,1,2016,yellow
+8.8,South America,"Quirihue, Chile",0,mww,0.1287001287001287,1,2010,green
+6.9,South America,"Rosa Zarate, Ecuador",1,mww,0.1287001287001287,1,2016,green
+7.3,South America,"San Agustín, Colombia",0,mww,0.1287001287001287,1,2012,green
+6.8,South America,"San Antonio de los Cobres, Argentina",1,mww,0.1287001287001287,1,2022,green
+6.8,South America,"San Antonio, Chile",1,mww,0.1287001287001287,1,2019,green
+6.8,South America,"San Pedro de Atacama, Chile",0,mwb,0.1287001287001287,1,2005,green
+6.8,South America,"San Pedro de Atacama, Chile",1,mww,0.1287001287001287,1,2020,green
+6.7,South America,"San Vicente de Cañete, Peru",0,mwc,0.1287001287001287,1,2006,green
+8,South America,"San Vicente de Cañete, Peru",0,mwc,0.1287001287001287,1,2007,green
+13.9,South America,"Santa Cruz, Chile",0,mwc,0.2574002574002574,1,2010,green
+6.9,South America,"Santiago, Peru",0,mww,0.1287001287001287,1,2011,green
+7.3,South America,South Sandwich Islands region,1,mww,0.1287001287001287,1,2013,green
+6.9,South America,South Sandwich Islands region,1,mww,0.1287001287001287,1,2014,green
+7.2,South America,South Sandwich Islands region,1,mww,0.1287001287001287,1,2016,green
+6.5,South America,South Sandwich Islands region,1,mww,0.1287001287001287,1,2017,green
+7.1,South America,South Sandwich Islands region,1,mww,0.1287001287001287,1,2018,green
+36.2,South America,South Sandwich Islands region,4,mww,0.6435006435006435,1,2021,green
+6.9,South America,South Shetland Islands,1,mww,0.1287001287001287,1,2021,green
+6.6,South America,"Talcahuano, Chile",0,mwb,0.1287001287001287,1,2010,green
+6.8,South America,"Tarauaca, Brazil",0,mww,0.1287001287001287,1,2019,green
+6.7,South America,"Tarauacá, Brazil",0,mww,0.1287001287001287,1,2015,green
+6.5,South America,"Tarauacá, Brazil",0,mww,0.1287001287001287,1,2022,green
+6.5,South America,"Teno, Chile",0,mwb,0.1287001287001287,1,2004,green
+6.8,South America,"Timbiquí, Colombia",0,mwc,0.1287001287001287,1,2007,green
+7.7,South America,"Tocopilla, Chile",0,mwc,0.1287001287001287,1,2007,green
+6.7,South America,"Tomé, Chile",0,mwc,0.1287001287001287,1,2010,green
+6.9,South America,"Tomé, Chile",0,mww,0.1287001287001287,1,2011,green
+6.8,South America,"Vallenar, Chile",0,mww,0.1287001287001287,1,2013,green
+13.3,South America,"Vallenar, Chile",1,mww,0.2574002574002574,1,2020,green
+6.9,South America,"Valparaíso, Chile",1,mww,0.1287001287001287,1,2017,yellow
+6.9,South America,"Yacuanquer, Colombia",1,mww,0.1287001287001287,1,2013,green
+7.5,South America,"Yurimaguas, Peru",0,mwb,0.1287001287001287,1,2005,green
